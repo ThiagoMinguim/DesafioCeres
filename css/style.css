@@ -39,9 +39,9 @@ body {
     rgba(0, 179, 255, 1) 100%
   );
   background-size: 400% 400%;
-  -webkit-animation: errorBg 5s linear infinite;
-  -moz-animation: errorBg 5s linear infinite;
-  animation: errorBg 5s linear infinite;
+  -webkit-animation: errorBg 15s linear infinite;
+  -moz-animation: errorBg 15s linear infinite;
+  animation: errorBg 15s linear infinite;
   font-family: "Nunito", sans-serif;
 }
 
